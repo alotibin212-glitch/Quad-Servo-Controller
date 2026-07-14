@@ -1,5 +1,6 @@
 # Quad Servo Controller
 
+
 ## 🔗 Interactive Simulation
 
 You can explore, test, and run the live interactive electrical simulation of this circuit directly in your browser:
@@ -12,18 +13,20 @@ You can explore, test, and run the live interactive electrical simulation of thi
 
 Here is the fully engineered circuitry wiring diagram for the 4-servo control system:
 
-
 <img width="1920" height="1080" alt="لقطة شاشة 2026-07-14 233115" src="https://github.com/user-attachments/assets/afc0e427-d155-461e-a90d-b593ce6209cb" />
 
 ---
 
 ## 📹 Project Demonstration Video
 
-Here is the live action demonstration showing the smooth 2-second sweep and the automatic locking phase:
+> 📝 Note: The demonstration video file has been successfully uploaded directly to the repository's files section above.
+
+You can play the video directly from the files list (`275430282556737567.mp4`), or watch the live action demonstration below showing the smooth 2-second sweep and the automatic locking phase:
 
 <p align="center">
-  <video src="275430282556737567.mp4" width="700px" autoplay loop muted controls></video>
+  <video src="./275430282556737567.mp4" width="700px" autoplay loop muted controls></video>
 </p>
+
 ---
 
 ## 📋 System Requirements & Technical Logic
