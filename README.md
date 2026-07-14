@@ -21,11 +21,9 @@ Here is the fully engineered circuitry wiring diagram for the 4-servo control sy
 
 > 📝 Note: The demonstration video file has been successfully uploaded directly to the repository's files section above.
 
-You can play the video directly from the files list (`275430282556737567.mp4`), or watch the live action demonstration below showing the smooth 2-second sweep and the automatic locking phase:
+You can play the video directly from the files list (`275430282556737567.mp4`)
 
-<p align="center">
-  <video src="./275430282556737567.mp4" width="700px" autoplay loop muted controls></video>
-</p>
+
 
 ---
 
