@@ -1,6 +1,5 @@
 # Quad Servo Controller
 
-
 ## 🔗 Interactive Simulation
 
 You can explore, test, and run the live interactive electrical simulation of this circuit directly in your browser:
@@ -13,8 +12,8 @@ You can explore, test, and run the live interactive electrical simulation of thi
 
 Here is the fully engineered circuitry wiring diagram for the 4-servo control system:
 
-<img width="1920" height="1080" alt="لقطة شاشة 2026-07-14 233115" src="https://github.com/user-attachments/assets/afc0e427-d155-461e-a90d-b593ce6209cb" />
 
+<img width="1920" height="1080" alt="لقطة شاشة 2026-07-14 233115" src="https://github.com/user-attachments/assets/afc0e427-d155-461e-a90d-b593ce6209cb" />
 
 ---
 
@@ -22,14 +21,9 @@ Here is the fully engineered circuitry wiring diagram for the 4-servo control sy
 
 Here is the live action demonstration showing the smooth 2-second sweep and the automatic locking phase:
 
-
-
-
-
-Uploading Quad Servo Controller.mp4…
-
-
-
+<p align="center">
+  <video src="275430282556737567.mp4" width="700px" autoplay loop muted controls></video>
+</p>
 
 ---
 
@@ -52,4 +46,5 @@ The components are integrated onto a centralized breadboard power bus utilizing 
 | Servo Motor 2 | Digital Pin 6 (PWM) | Dynamic Angle Rotation & Locking |
 | Servo Motor 3 | Digital Pin 5 (PWM) | Dynamic Angle Rotation & Locking |
 | Servo Motor 4 | Digital Pin 3 (PWM) | Dynamic Angle Rotation & Locking |
+
 
