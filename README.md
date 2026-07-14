@@ -24,7 +24,6 @@ Here is the live action demonstration showing the smooth 2-second sweep and the 
 <p align="center">
   <video src="275430282556737567.mp4" width="700px" autoplay loop muted controls></video>
 </p>
-
 ---
 
 ## 📋 System Requirements & Technical Logic
